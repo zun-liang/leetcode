@@ -6,3 +6,11 @@
 - 2024/06/08 Find The Maximum Achievable Number, Easy
 - 2024/06/08 Concatenation of Array, Easy
 - 2024/06/08 Build Array from Permutation, Easy
+- 2024/06/09 Convert the Temperature, Easy
+- 2024/06/09 Defanging an IP Address, Easy
+- 2024/06/09 Final Value of Variable After Performing Operations, Easy
+- 2024/06/09 Add Two Integers, Easy
+- 2024/06/09 Number of Employees Who Met The Target, Easy
+- 2024/06/09 Jewels and Stones, Easy
+- 2024/06/09 Shuffle The Array, Easy
+- 2024/06/09 Divisible and Non-divisible Sums Difference, Easy
