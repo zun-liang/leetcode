@@ -14,3 +14,6 @@
 - 2024/06/09 Jewels and Stones, Easy
 - 2024/06/09 Shuffle The Array, Easy
 - 2024/06/09 Divisible and Non-divisible Sums Difference, Easy
+- 2024/06/09 Smallest Even Multiple, Easy
+- 2024/06/09 Kids WiTH The Greatest Number Of Candies, Easy
+- 2024/06/09 Riches Customer Wealth, Easy
