@@ -1,4 +1,4 @@
-const differenceOfSums = (n, m) => {
+const differenceOfSums = (n: number, m: number): number => {
   let sum1 = 0;
   let sum2 = 0;
   for (let i = 1; i <= n; i++) {
