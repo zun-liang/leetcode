@@ -15,10 +15,12 @@
 - 2024/06/09 Shuffle The Array, Easy
 - 2024/06/09 Divisible and Non-divisible Sums Difference, Easy
 - 2024/06/09 Smallest Even Multiple, Easy
-- 2024/06/09 Kids WiTH The Greatest Number Of Candies, Easy
+- 2024/06/09 Kids With The Greatest Number Of Candies, Easy
 - 2024/06/09 Richest Customer Wealth, Easy
 - 2024/06/10 Count Pairs Whose Sum is Less Than Target, Easy
 - 2024/06/10 Find Words Containing Character, Easy
 - 2024/06/10 Number of Good Pairs, Easy
 - 2024/06/10 How Many Numbers Are Smaller Than The Current Numbers. Easy
 - 2024/06/10 Create target Array In The Given Order, Easy
+- 2024/06/11 Running Sum of 1d Array, Easy
+- 2024/06/11 Sum of Multiples, Easy
