@@ -25,3 +25,4 @@
 - 2024/06/11 Running Sum of 1d Array, Easy
 - 2024/06/11 Sum of Multiples, Easy
 - 2024/06/11 Left and Right Sum Differences, Easy
+- 2024/06/12 Add Two Promises, Easy
