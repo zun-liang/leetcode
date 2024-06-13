@@ -26,3 +26,5 @@
 - 2024/06/11 Sum of Multiples, Easy
 - 2024/06/11 Left and Right Sum Differences, Easy
 - 2024/06/12 Add Two Promises, Easy
+- 2024/06/13 Permutation Difference between Two Strings, Easy
+- 2024/06/13 Display the First Three Rows, Easy (*Pandas)
