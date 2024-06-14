@@ -28,3 +28,5 @@
 - 2024/06/12 Add Two Promises, Easy
 - 2024/06/13 Permutation Difference between Two Strings, Easy
 - 2024/06/13 Display the First Three Rows, Easy (*Pandas)
+- 2024/06/14 Debounce, Medium
+- 2024/06/14 Partitioning Into Minimum Number Of Deci-Binary Number, Medium
