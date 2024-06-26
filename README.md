@@ -30,3 +30,5 @@
 - 2024/06/13 Display the First Three Rows, Easy (*Pandas)
 - 2024/06/14 Debounce, Medium
 - 2024/06/14 Partitioning Into Minimum Number Of Deci-Binary Number, Medium
+- 2024/06/25 Filter Elements from Array, Easy
+- 2024/06/25 Sort By, Easy
