@@ -32,3 +32,8 @@
 - 2024/06/14 Partitioning Into Minimum Number Of Deci-Binary Number, Medium
 - 2024/06/25 Filter Elements from Array, Easy
 - 2024/06/25 Sort By, Easy
+- 2024/06/26 Array Prototype Last, Easy
+- 2024/06/26 Counter, Easy
+- 2024/06/26 Counter II, Easy
+- 2024/06/26 Function Composition, Easy
+- 2024/06/26 Apply Transform Over Each Element in Array, Easy
