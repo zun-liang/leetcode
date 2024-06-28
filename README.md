@@ -37,3 +37,8 @@
 - 2024/06/26 Counter II, Easy
 - 2024/06/26 Function Composition, Easy
 - 2024/06/26 Apply Transform Over Each Element in Array, Easy
+- 2024/06/28 Allow One Function Call, Easy
+- 2024/06/28 Create Hello World Function, Easy
+- 2024/06/28 Array Reduce Transformation, Easy
+- 2024/06/28 Nested Array Generator, Easy
+- 2024/06/28 Chunk Array, Easy
