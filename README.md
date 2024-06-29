@@ -23,7 +23,7 @@
 - 2024/06/10 How Many Numbers Are Smaller Than The Current Numbers. Easy
 - 2024/06/10 Create target Array In The Given Order, Easy
 - 2024/06/11 Running Sum of 1d Array, Easy
-- 2024/06/11 Sum of Multiples, Easy
+- 2024/06/11 Sum Multiples, Easy
 - 2024/06/11 Left and Right Sum Differences, Easy
 - 2024/06/12 Add Two Promises, Easy
 - 2024/06/13 Permutation Difference between Two Strings, Easy
