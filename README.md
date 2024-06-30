@@ -43,3 +43,5 @@
 - 2024/06/28 Nested Array Generator, Easy
 - 2024/06/28 Chunk Array, Easy
 - 2024/06/29 Timeout Cancellation, Easy
+- 2024/06/30 Sleep, Easy
+- 2024/06/30 Generate Fibonacci Sequence, Easy
