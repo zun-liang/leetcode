@@ -40,8 +40,11 @@
 - 2024/06/28 Allow One Function Call, Easy
 - 2024/06/28 Create Hello World Function, Easy
 - 2024/06/28 Array Reduce Transformation, Easy
-- 2024/06/28 Nested Array Generator, Easy
+- 2024/06/28 Nested Array Generator, Medium
 - 2024/06/28 Chunk Array, Easy
 - 2024/06/29 Timeout Cancellation, Easy
 - 2024/06/30 Sleep, Easy
 - 2024/06/30 Generate Fibonacci Sequence, Easy
+- 2024/07/01 Find Minimum Operations to Make All Elements Divisible by Three, Easy
+- 2024/07/01 Is Object Empty, Easy
+- 2024/07/01 Array Wrapper, Easy
