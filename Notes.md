@@ -85,3 +85,9 @@
 - [Generator.prototype.next()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator/next)
 
     >"The next() method of Generator instances returns an object with two properties done and value. You can also provide a parameter to the next method to send a value to the generator."
+
+## 2024/07/03
+
+### 2726 Calculator with Method Chaining
+
+- [Exponentiation assignment (**=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation_assignment)
