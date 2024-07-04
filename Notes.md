@@ -86,7 +86,7 @@
 
     >"The next() method of Generator instances returns an object with two properties done and value. You can also provide a parameter to the next method to send a value to the generator."
 
-## 2024/07/03
+## 2024/07/04
 
 ### 2726 Calculator with Method Chaining
 

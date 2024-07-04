@@ -48,3 +48,5 @@
 - 2024/07/01 Find Minimum Operations to Make All Elements Divisible by Three, Easy
 - 2024/07/01 Is Object Empty, Easy
 - 2024/07/01 Array Wrapper, Easy
+- 2024/07/04 Calculator with Method Chaining, Easy
+- 2024/07/04 Count Symmetric Integers, Easy
