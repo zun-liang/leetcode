@@ -91,3 +91,24 @@
 ### 2726 Calculator with Method Chaining
 
 - [Exponentiation assignment (**=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation_assignment)
+
+
+## 2024/07/06
+
+### 1837 Sum of Digits in Base K
+
+- [Number.prototype.toString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString)
+
+    `toString(radix)`
+    An integer in the range 2 through 36 specifying the base to use for representing the number value. Defaults to 10.
+
+    This converts number in base 10 to something else.
+
+- [parseInt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
+
+    `parseInt(str, radix)`
+    This converts number into base 10.
+
+### 2807 Insert Greatest Common Divisors in Linked List
+
+- [How to implement a Linked List in JavaScript](https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/)
