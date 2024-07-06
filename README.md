@@ -51,3 +51,4 @@
 - 2024/07/04 Calculator with Method Chaining, Easy
 - 2024/07/04 Count Symmetric Integers, Easy
 - 2024/07/06 Sum of Digits in Base K, Easy
+- 2024/07/06 Insert Greatest Common Divisors in Linked List, Medium

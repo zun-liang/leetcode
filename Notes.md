@@ -112,3 +112,13 @@
 ### 2807 Insert Greatest Common Divisors in Linked List
 
 - [How to implement a Linked List in JavaScript](https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/)
+- To calculate GCD:
+
+    ```
+    const gcd = (a: number, b: number): number => {
+    if (b === 0) {
+        return a;
+    }
+    return gcd(b, a % b);
+    };
+    ```
