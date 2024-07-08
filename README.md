@@ -52,3 +52,7 @@
 - 2024/07/04 Count Symmetric Integers, Easy
 - 2024/07/06 Sum of Digits in Base K, Easy
 - 2024/07/06 Insert Greatest Common Divisors in Linked List, Medium
+- 2024/07/07 Modify Columns, Easy (*Pandas)
+- 2024/07/07 Create a New Column, Easy (*Pandas)
+- 2024/07/07 Reshape Data: Concatenate, Easy (*Pandas)
+- 2024/07/07 Shuffle String, Easy
