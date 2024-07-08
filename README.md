@@ -1,4 +1,4 @@
-# LeetCode Challenge Solutions in TypeScript
+# LeetCode Challenge Solutions in TypeScript and PostgreSQL
 
 - 2024/01/05 Palindrome Number, Easy
 - 2024/06/08 Score of a String, Easy
@@ -56,3 +56,8 @@
 - 2024/07/07 Create a New Column, Easy (*Pandas)
 - 2024/07/07 Reshape Data: Concatenate, Easy (*Pandas)
 - 2024/07/07 Shuffle String, Easy
+- 2024/07/08 Recyclable and Low Fat Products, Easy (*PostgreSQL)
+- 2024/07/08 Number of Unique Subjects Taught by Each Teacher, Easy (*PostgreSQL)
+- 2024/07/08 Find Total Time Spent by Each Employee, Easy (*PostgreSQL)
+- 2024/07/08 Daily Leads and Partners, Easy (*PostgreSQL)
+- 2024/07/08 Invalid Tweets, Easy (*PostgreSQL)

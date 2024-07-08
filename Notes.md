@@ -122,3 +122,10 @@
     return gcd(b, a % b);
     };
     ```
+
+## 2024/07/08
+
+### 1683 Invalid Tweets
+
+- char_length()
+- [PostgreSQL String Functions and Operators](https://www.postgresql.org/docs/9.1/functions-string.html)
