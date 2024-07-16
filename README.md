@@ -61,3 +61,9 @@
 - 2024/07/08 Find Total Time Spent by Each Employee, Easy (*PostgreSQL)
 - 2024/07/08 Daily Leads and Partners, Easy (*PostgreSQL)
 - 2024/07/08 Invalid Tweets, Easy (*PostgreSQL)
+- 2024/07/16 Tenth Line, Easy (*Bash)
+- 2024/07/16 Goal Parser Interpretation, Easy
+- 2024/07/16 Maximum Number of Words Found in Sentences, Easy
+- 2024/07/16 Check if Two String Arrays are Equivalent, Easy
+- 2024/07/16 Truncate Sentence, Easy
+- 2024/07/16 Valid Palindrome, Easy
