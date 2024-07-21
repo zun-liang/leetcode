@@ -67,3 +67,11 @@
 - 2024/07/16 Check if Two String Arrays are Equivalent, Easy
 - 2024/07/16 Truncate Sentence, Easy
 - 2024/07/16 Valid Palindrome, Easy
+- 2024/07/21 Minimum Number of Moves to Seat Everyone, Easy
+- 2024/07/21 Keyboard Row, Easy
+- 2024/07/21 Integer to Roman, Medium
+- 2024/07/21 Roman to Integer, Easy
+- 2024/07/21 Minimum Sum of Four Digit Number After Splitting Digits, Easy
+- 2024/07/21 Add Digits, Easy
+- 2024/07/21 Difference Between Element Sum and Digit Sum of an Array, Easy
+- 2024/07/21 Alternating Digit Sum, Easy
