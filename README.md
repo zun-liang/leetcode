@@ -75,3 +75,8 @@
 - 2024/07/21 Add Digits, Easy
 - 2024/07/21 Difference Between Element Sum and Digit Sum of an Array, Easy
 - 2024/07/21 Alternating Digit Sum, Easy
+- 2024/07/22 Minimum Number Game, Easy
+- 2024/07/22 Strictly Palindromic Number, Medium
+- 2024/07/22 Reverse Prefix of Word, Easy
+- 2024/07/22 Partition Array According to Given Pivot, Medium
+- 2024/07/22 Minimum Average of Smallest and Largest Elements, Easy
