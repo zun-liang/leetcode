@@ -80,3 +80,6 @@
 - 2024/07/22 Reverse Prefix of Word, Easy
 - 2024/07/22 Partition Array According to Given Pivot, Medium
 - 2024/07/22 Minimum Average of Smallest and Largest Elements, Easy
+- 2024/07/31 A Number After a Double Reversal, Easy
+- 2024/07/31 Reverse Integers, Medium
+- 2024/07/31 Count The Digits That Divide A Number, Easy
