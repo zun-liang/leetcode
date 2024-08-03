@@ -83,3 +83,4 @@
 - 2024/07/31 A Number After a Double Reversal, Easy
 - 2024/07/31 Reverse Integers, Medium
 - 2024/07/31 Count The Digits That Divide A Number, Easy
+- 2024/08/02 Find The Number of Good Pairs I, Easy
