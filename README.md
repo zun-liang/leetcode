@@ -84,3 +84,5 @@
 - 2024/07/31 Reverse Integers, Medium
 - 2024/07/31 Count The Digits That Divide A Number, Easy
 - 2024/08/02 Find The Number of Good Pairs I, Easy
+- 2024/08/03 Sort The People, Easy
+- 2024/08/03 Sort Array by Increasing Frequency, Easy
