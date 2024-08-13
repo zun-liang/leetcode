@@ -81,10 +81,13 @@
 - 2024/07/22 Partition Array According to Given Pivot, Medium
 - 2024/07/22 Minimum Average of Smallest and Largest Elements, Easy
 - 2024/07/31 A Number After a Double Reversal, Easy
-- 2024/07/31 Reverse Integers, Medium
+- 2024/07/31 Reverse Integer, Medium
 - 2024/07/31 Count The Digits That Divide A Number, Easy
 - 2024/08/02 Find The Number of Good Pairs I, Easy
 - 2024/08/03 Sort The People, Easy
 - 2024/08/03 Sort Array by Increasing Frequency, Easy
 - 2024/08/12 To Be Or Not To Be, Easy
 - 2024/08/12 Flatten Deeply Nested Array, Medium
+- 2024/08/13 Binary Search, Easy
+- 2024/08/13 Remove Element, Easy
+- 2024/08/13 Squares of A Sorted Array, Easy
