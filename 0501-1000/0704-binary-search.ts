@@ -14,3 +14,5 @@ const search = (nums: number[], target: number): number => {
   }
   return -1;
 };
+
+// Inspired by @youngyangyang04/leetcode-master

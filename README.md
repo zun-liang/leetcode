@@ -92,3 +92,4 @@
 - 2024/08/13 Remove Element, Easy
 - 2024/08/13 Squares of A Sorted Array, Easy
 - 2024/08/15 Minimum Size Subarray Sum, Medium
+- 2024/08/15 Maximum Strong Pair XOR I, Easy

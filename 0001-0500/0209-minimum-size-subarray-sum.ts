@@ -14,3 +14,5 @@ const minSubArrayLen = (target: number, nums: number[]): number => {
   }
   return result === Infinity ? 0 : result;
 };
+
+// Inspired by @youngyangyang04/leetcode-master
