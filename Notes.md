@@ -149,3 +149,9 @@
   ```
 - [Right shift(>>)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Right_shift)
   In this case, `(right - left) >> 1` gives you the same result as `(right - left) / 2`, but it's faster and avoids errors. It also prevents overflow issues that could happen with `(left + right) >> 1`.
+
+## 2024/08/15
+
+### 209 Minimum Size Subarray Sum
+
+- [Infinity](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity)
