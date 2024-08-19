@@ -93,3 +93,14 @@
 - 2024/08/13 Squares of A Sorted Array, Easy
 - 2024/08/15 Minimum Size Subarray Sum, Medium
 - 2024/08/15 Maximum Strong Pair XOR I, Easy
+- 2024/08/18 Design Parking System, Easy
+- 2024/08/18 Split A String in A Balanced String, Easy
+- 2024/08/18 Count Numbers of Pairs with Absolute Difference K, Easy
+- 2024/08/18 Minimum Number of Steps to Make Two Strings Anagram, Medium
+- 2024/08/18 Kth Distinct String in an Array, Easy
+- 2024/08/18 Count Pairs That Form a Complete Day I, Easy
+- 2024/08/18 Count Elements with Maximum Frequency, Easy
+- 2024/08/18 Determine if String Halves Are Alike, Easy
+- 2024/08/18 Sort Integers by The Number of 1 Bits, Easy
+- 2024/08/18 Sum of Unique Elements, Easy
+- 2024/08/18 Check if All Characters Have Equal Number of Occurrences, Easy
