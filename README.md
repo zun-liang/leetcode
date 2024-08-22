@@ -104,3 +104,5 @@
 - 2024/08/18 Sort Integers by The Number of 1 Bits, Easy
 - 2024/08/18 Sum of Unique Elements, Easy
 - 2024/08/18 Check if All Characters Have Equal Number of Occurrences, Easy
+- 2024/08/21 Two Sum, Easy
+- 2024/08/21 Valid Anagram, Easy
