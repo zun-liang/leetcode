@@ -106,3 +106,6 @@
 - 2024/08/18 Check if All Characters Have Equal Number of Occurrences, Easy
 - 2024/08/21 Two Sum, Easy
 - 2024/08/21 Valid Anagram, Easy
+- 2024/08/24 Counting Words with a Given Prefix, Easy
+- 2024/08/24 Check if a Word Occurs as a Prefix of Any Word in a Sentence, Easy
+- 2024/08/24 Count Prefixes of a Given String, Easy
