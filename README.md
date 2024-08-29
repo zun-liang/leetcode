@@ -109,3 +109,8 @@
 - 2024/08/24 Counting Words with a Given Prefix, Easy
 - 2024/08/24 Check if a Word Occurs as a Prefix of Any Word in a Sentence, Easy
 - 2024/08/24 Count Prefixes of a Given String, Easy
+- 2024/08/29 Count Prefix and Suffix Pairs I, Easy
+- 2024/08/29 String Matching in An Array, Easy
+- 2024/08/29 Rotate String, Easy
+- 2024/08/29 Longest Happy Prefix, Hard
+- 2024/08/29 Find First Palindromic String in The Array, Easy
