@@ -114,3 +114,4 @@
 - 2024/08/29 Rotate String, Easy
 - 2024/08/29 Longest Happy Prefix, Hard
 - 2024/08/29 Find First Palindromic String in The Array, Easy
+- 2024/09/13 Count Primes, Medium
