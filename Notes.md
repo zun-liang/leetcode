@@ -155,3 +155,9 @@
 ### 209 Minimum Size Subarray Sum
 
 - [Infinity](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity)
+
+## 2024/09/13
+
+### 204 Count Primes
+
+- [Array.prototype.fill()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
