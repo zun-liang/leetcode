@@ -115,3 +115,7 @@
 - 2024/08/29 Longest Happy Prefix, Hard
 - 2024/08/29 Find First Palindromic String in The Array, Easy
 - 2024/09/13 Count Primes, Medium
+- 2024/09/21 Majority Elements, Easy
+- 2024/09/21 Ransom Note, Easy
+- 2024/09/21 First Unique Character in a String, Easy
+- 2024/09/21 Most Common Word, Easy
