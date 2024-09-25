@@ -119,3 +119,7 @@
 - 2024/09/21 Ransom Note, Easy
 - 2024/09/21 First Unique Character in a String, Easy
 - 2024/09/21 Most Common Word, Easy
+- 2024/09/25 Combine Two Tables, Easy
+- 2024/09/25 Employees Earning More Than Their Managers, Easy
+- 2024/09/25 Duplicate Emails, Easy
+- 2024/09/25 Customers Who Never Order, Easy

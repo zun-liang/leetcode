@@ -168,3 +168,21 @@
 
 - [Map.prototype.has()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/has)
 - [Map.prototype.get()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/get)
+
+## 2024/09/25
+
+### 175 Combine Two Tables
+
+- [PostgreSQL Documentation 2.6 Joins Between Tables](https://www.postgresql.org/docs/current/tutorial-join.html)
+- When selecting certain columns from both tables, we can write it in this way, for example:
+
+```
+SELECT
+    Person.firstName,
+    Person.lastName,
+    Address.city,
+    Address.state
+FROM
+    Person
+    LEFT JOIN Address ON Person.personId = Address.personId;
+```
