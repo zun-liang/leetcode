@@ -1,4 +1,4 @@
-# LeetCode Challenge Solutions in TypeScript and PostgreSQL
+# LeetCode Challenge Practice
 
 - 2024/01/05 Palindrome Number, Easy
 - 2024/06/08 Score of a String, Easy
@@ -27,7 +27,7 @@
 - 2024/06/11 Left and Right Sum Differences, Easy
 - 2024/06/12 Add Two Promises, Easy
 - 2024/06/13 Permutation Difference between Two Strings, Easy
-- 2024/06/13 Display the First Three Rows, Easy (\*Pandas)
+- 2024/06/13 Display the First Three Rows, Easy
 - 2024/06/14 Debounce, Medium
 - 2024/06/14 Partitioning Into Minimum Number Of Deci-Binary Number, Medium
 - 2024/06/25 Filter Elements from Array, Easy
@@ -52,16 +52,16 @@
 - 2024/07/04 Count Symmetric Integers, Easy
 - 2024/07/06 Sum of Digits in Base K, Easy
 - 2024/07/06 Insert Greatest Common Divisors in Linked List, Medium
-- 2024/07/07 Modify Columns, Easy (\*Pandas)
-- 2024/07/07 Create a New Column, Easy (\*Pandas)
-- 2024/07/07 Reshape Data: Concatenate, Easy (\*Pandas)
+- 2024/07/07 Modify Columns, Easy
+- 2024/07/07 Create a New Column, Easy
+- 2024/07/07 Reshape Data: Concatenate, Easy
 - 2024/07/07 Shuffle String, Easy
-- 2024/07/08 Recyclable and Low Fat Products, Easy (\*PostgreSQL)
-- 2024/07/08 Number of Unique Subjects Taught by Each Teacher, Easy (\*PostgreSQL)
-- 2024/07/08 Find Total Time Spent by Each Employee, Easy (\*PostgreSQL)
-- 2024/07/08 Daily Leads and Partners, Easy (\*PostgreSQL)
-- 2024/07/08 Invalid Tweets, Easy (\*PostgreSQL)
-- 2024/07/16 Tenth Line, Easy (\*Bash)
+- 2024/07/08 Recyclable and Low Fat Products, Easy
+- 2024/07/08 Number of Unique Subjects Taught by Each Teacher, Easy
+- 2024/07/08 Find Total Time Spent by Each Employee, Easy
+- 2024/07/08 Daily Leads and Partners, Easy
+- 2024/07/08 Invalid Tweets, Easy
+- 2024/07/16 Tenth Line, Easy
 - 2024/07/16 Goal Parser Interpretation, Easy
 - 2024/07/16 Maximum Number of Words Found in Sentences, Easy
 - 2024/07/16 Check if Two String Arrays are Equivalent, Easy
@@ -123,3 +123,6 @@
 - 2024/09/25 Employees Earning More Than Their Managers, Easy
 - 2024/09/25 Duplicate Emails, Easy
 - 2024/09/25 Customers Who Never Order, Easy
+- 2025/05/22 Number of Arithmetic Triplets, Easy
+- 2025/05/22 Reverse Words in a String III, Easy
+- 2025/05/22 Flipping an Image, Easy
